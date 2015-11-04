@@ -1,3 +1,5 @@
+apply plugin: 'groovy'
+
 import jenkins.util.*;
 import jenkins.model.*;
 import static java.lang.Thread.*
