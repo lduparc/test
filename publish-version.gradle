@@ -1,5 +1,6 @@
 import jenkins.util.*;
 import jenkins.model.*;
+import static java.lang.Thread.*
 
 task initPipelineNumber(type:Exec) {
 
